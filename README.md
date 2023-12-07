@@ -1,4 +1,4 @@
 # Kafka Fundamentals
 
-** Producer
-** Consumer
+- Producer
+- Consumer
