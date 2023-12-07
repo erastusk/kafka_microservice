@@ -1,0 +1,6 @@
+Naive approach.
+ - All you need is a receiver that will handle/receiver data from a producer.
+ - Implement a handle func that handles websockets. Simple enough
+
+ Planned Refactor including GG method
+  - Move handler to a nother directory or file 
